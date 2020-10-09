@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DemoInput</string>
+    <string name="str_hint_euro">Bedrag in Eur</string>
+    <string name="str_hint_dollar">Bedrag in USD</string>
+    <string name="str_btn_Convert">Converteer</string>
+    <string name="str_cb_tos">Ik ga akkoord met de algemene voorwaarden</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DemoInput</string>
+    <string name="str_hint_euro">Amount in EUR</string>
+    <string name="str_hint_dollar">Amount in USD</string>
+    <string name="str_btn_Convert">Convert</string>
+    <string name="str_cb_tos">I Agree with the terms of service</string>
+</resources>
